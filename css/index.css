@@ -1,0 +1,13 @@
+body{
+  background-color: #729fe2;
+}
+
+article{
+  background-color: #61df9b;
+  width: 80%;
+  margin: auto;
+}
+
+h1{
+  color: red;
+}
